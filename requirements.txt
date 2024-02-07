@@ -1,0 +1,9 @@
+numpy==1.23.1
+mss==7.0.1
+Pillow==9.5.0
+termcolor==2.2.0
+pyserial==3.5
+keyboard==0.13.5
+opencv-python==4.7.0.72
+pywin32==306
+PyAutoGUI==0.9.53
